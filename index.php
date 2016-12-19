@@ -12,6 +12,9 @@ and open the template in the editor.
     <body>
         <h1>Projet GIT ISFCE DvpWeb</h1>
         <p>Vendredi 19 décembre 2016</p>
+        <h2>
+            Premier changement
+        </h2>
             <?php
         // put your code here
         ?>
